@@ -1,0 +1,23 @@
+[
+   {
+      "nama": "Sandhika Galih",
+      "nrp": "0454343430",
+      "email": "sandhikagalih@gmail.com",
+      "jurusan": "Teknik Informatika",
+      "idDosenWali": 1
+   },
+   {
+      "nama": "Doddy Ferdiansyah",
+      "nrp": "12344334",
+      "email": "doddy@gmail.com",
+      "jurusan": "Teknik Informatika",
+      "idDosenWali": 2
+   },
+   {
+      "nama": "Erik",
+      "nrp": "64545455",
+      "email": "erik@gmail.com",
+      "jurusan": "Teknik Informatika",
+      "idDosenWali": 2
+   }
+]
