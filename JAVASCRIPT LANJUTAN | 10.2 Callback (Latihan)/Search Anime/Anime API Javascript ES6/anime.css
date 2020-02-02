@@ -31,3 +31,11 @@ body {
    margin: 0;
    overflow-x: hidden;
 }
+
+.anime {
+   padding-left: 20px;
+}
+
+.search {
+   margin-top: 50px;
+}
